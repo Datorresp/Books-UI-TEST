@@ -1,10 +1,11 @@
 {
   "name": "books-ui-test",
   "version": "1.0.0",
-  "description": "Taller Grupa;",
+  "description": "Taller Grupal",
   "main": "index.js",
   "scripts": {
-    "test": "cypress open"
+    "test": "cypress run",
+    "test:open": "cypress open"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/Datorresp/Books-UI-TEST/issues"
   },
-  "homepage": "https://github.com/Datorresp/Books-UI-TEST#readme"
+  "homepage": "https://github.com/Datorresp/Books-UI-TEST#readme",
+  "devDependencies": {
+    "cypress": "^12.9.0",
+    "typescript": "^5.0.4"
+  }
 }
