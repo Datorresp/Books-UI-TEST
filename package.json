@@ -1,0 +1,25 @@
+{
+  "name": "books-ui-test",
+  "version": "1.0.0",
+  "description": "Taller Grupa;",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Datorresp/Books-UI-TEST.git"
+  },
+  "keywords": [
+    "ui-testing",
+    "dojo",
+    "practice",
+    "cypress"
+  ],
+  "author": "Diego Andres Torres Primero <diegot145@hotmail.com> (Datorresp)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Datorresp/Books-UI-TEST/issues"
+  },
+  "homepage": "https://github.com/Datorresp/Books-UI-TEST#readme"
+}
